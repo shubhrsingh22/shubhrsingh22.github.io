@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
 
-news: true # includes a list of news items
+news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: False # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a PhD student in Artificial Intelligence and Music at [Queen Mary University of London's Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) and also an enrichment student at [The Alan Turing Institute,UK](https://www.turing.ac.uk/). My research centers on developing  graph neural network models to enhance the recognition of environmental sounds and musical elements. I have a particular interest in constructing models that treat sounds as complex graphs, connecting various regions across frequency and time to create a detailed representation of the audio object. I am jointly supervised by [Dr Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr Huy Phan](https://pquochuy.github.io/) and [Dr Dan Stowell](http://mcld.co.uk/research/) and am very grateful to be funded by the [UKRI Centre for Doctoral Training in Artificial Intelligence and Music](https://www.aim.qmul.ac.uk/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my research, I am deeply committed to the study of Indian classical music, learning under the esteemed guidance of [Ustad Dharambir Singh](http://www.dharambir.com/about-2-2/) and Vidushi Roopa Panesar(http://roopapanesarmusic.com/).

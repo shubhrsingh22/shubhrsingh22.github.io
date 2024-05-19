@@ -87,6 +87,16 @@
       "startDate": "2018",
       "endDate": "2019",
       "courses": ["Sound & Music Computing"]
+    },
+    {
+      "institution": "Centre For Digital Music, Queen Mary University Of London",
+      "location": "London, United Kingdom",
+      "url": "https://www.c4dm.eecs.qmul.ac.uk/",
+      "area": "Sound & Music Computing",
+      "studyType": "Msc",
+      "startDate": "2018",
+      "endDate": "2019",
+      "courses": ["Sound & Music Computing"]
     }
 
   ]

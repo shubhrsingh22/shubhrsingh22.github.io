@@ -49,10 +49,5 @@
       neural network.
       Integrated the model with a vst plugin to run on digital audio workstations
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 

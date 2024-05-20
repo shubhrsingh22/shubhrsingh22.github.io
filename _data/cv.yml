@@ -26,30 +26,33 @@
   contents:
     - title: Teaching Fellow
       institution: Queen Mary University of London
-      year: Jan 2024 - Now
+      year: 2024 - Current
       description:
         - Teaching music informatics to postgraduate and doctoral students
         
     - title: Enrichment Student
       institution: The Alan Turing Institute,UK
-      year: Oct 2023 - Now
+      year: 2023 - Current
       description:
         - Received placement award from the Alan Turing Institute to conduct my PhD
           research from their HQ.
         - Working on collaborations to develop domain agnostic graph neural network
           models.
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    
+    - title: Co-Organiser
+      institution: DCASE Challenge Task 5
+      year: 2021 - Current
       description:
+        - Developed the baseline repository for the challenge..
+        - Web master for the task.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: Queen Mary University of London
+      year: 2019-2020
+      description:
+        - Worked on industry sponsored project (Steinberg Media Technologies GmbH)
+          to automate parameter prediction for dynamic range compressor using siamese
+          neural network.
 
 - title: Open Source Projects
   type: time_table
@@ -61,13 +64,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2003
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Alan Turing Enrichment Award
 
 - title: Academic Interests
   type: nested_list
